@@ -29,8 +29,8 @@ To define a class Car with attributes brand, color, and year; create two objects
 ## PROGRAM:
  ```
 Program to implement a Class and Objects using Java
-Developed by: Pradeep kumar 
-Register Number:212223220077
+Developed by: Vikaash K S
+RegisterNumber: 212223240179
 ```
 
 ## SOURCE CODE:
@@ -115,8 +115,8 @@ To write a Java program that defines a method cube(int x) which internally calls
 ## PROGRAM:
  ```
 Program to implement a Methods using Java
-Developed by: Pradeep kumar 
-Register Number:212223220077
+Developed by: Vikaash K S
+RegisterNumber: 212223240179
 ```
 
 ## SOURCE CODE:
@@ -195,8 +195,8 @@ To write a Java program that defines a class BankAccount with private attributes
 ## PROGRAM:
  ```
 Program to implement a Access Specifiers using Java
-Developed by: Pradeep kumar 
-Register Number:212223220077
+Developed by: Vikaash K S
+RegisterNumber: 212223240179
 ```
 
 ## SOURCE CODE:
@@ -289,8 +289,8 @@ To write a Java program that initializes object variables using a constructor an
 ## PROGRAM:
  ```
 Program to implement a Variable scope and Constructor using Java
-Developed by: Pradeep kumar 
-Register Number:212223220077
+Developed by: Vikaash K S
+RegisterNumber: 212223240179
 ```
 
 ## SOURCE CODE:
@@ -374,8 +374,8 @@ To create an Employee class where the display() method returns the current objec
 ## PROGRAM:
  ```
 Program to implement a Access Modifiers using Java
-Developed by: Pradeep kumar 
-Register Number:212223220077
+Developed by: Vikaash K S
+RegisterNumber: 212223240179
 ```
 
 ## SOURCE CODE:
