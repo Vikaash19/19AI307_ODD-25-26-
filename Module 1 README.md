@@ -46,8 +46,8 @@ To write a Java program that reads two integer numbers from the user and perform
  ```
 /*
 Program to implement a Strings and Math Function using Java
-Developed by: Pradeep kumar
-RegisterNumber: 212223220077
+Developed by: Vikaash K S
+RegisterNumber: 212223240179
 */
 ```
 
@@ -129,8 +129,8 @@ To write a Java program that accepts a code number and determines the security l
  ```
 /*
 Program to implement a Strings and Math Function using Java
-Developed by: Pradeep kumar
-RegisterNumber: 212223220077
+Developed by: Vikaash K S
+RegisterNumber: 212223240179
 */
 ```
 
@@ -196,8 +196,8 @@ To write a Java program that reads an integer from the user and displays all the
  ```
 /*
 Program to implement a Strings and Math Function using Java
-Developed by: Pradeep kumar
-RegisterNumber: 212223220077
+Developed by: Vikaash K S
+RegisterNumber: 212223240179
 */
 ```
 
@@ -262,8 +262,8 @@ To write a Java program that reads an array of integers and finds the index of a
  ```
 /*
 Program to implement a Strings and Math Function using Java
-Developed by: Pradeep kumar
-RegisterNumber: 212223220077
+Developed by: Vikaash K S
+RegisterNumber: 212223240179
 */
 ```
 
@@ -333,8 +333,8 @@ To write a Java program that finds the absolute value of a given number using th
  ```
 /*
 Program to implement a Strings and Math Function using Java
-Developed by: Pradeep kumar
-RegisterNumber: 212223220077
+Developed by: Vikaash K S
+RegisterNumber: 212223240179
 */
 ```
 
